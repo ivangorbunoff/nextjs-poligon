@@ -1,0 +1,14 @@
+/* Для использования препроцессоров css нужно установить его, например:
+npm i sass
+Затем переименовать расширения файлов из css в scss
+*/
+
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+	.back {
+		color: green;
+	}
+}

@@ -1,1 +1,11 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Для запуска проекта введите:
+
+```bash
+npm run dev
+```
+
+и затем в другой консоле для запуска API сервера
+
+```bash
+npm run mock
+```
